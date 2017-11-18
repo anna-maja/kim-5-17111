@@ -1,24 +1,4 @@
 /*
- * 
-   
-  string sm = JOptionPane.showInputDialog ("Skriv ett tal.");
-  string sn = JOptionPane.showInputDialog ("Skriv in ett tal till.");
-  int m = Integer.parseInt (sm);
-  int n = Integer.parseInt (sn);
-  int r = 0;
-  
-  for (int i=1; r > 0; i++)
-   r = % m/n;
-   n = m;
-   r = n; 
-  }
-  else 
-    if r = 0
-     JOptionPane.showMessageDialog (null, "Nu är beräkningarna slut.");
- }
- */
-
-/*
  * 1. ruta där man skriver in ett tal.
  * 2. display på hela beräkningen.
  * 3. "Skriv in en till siffra". 
